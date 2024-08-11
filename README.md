@@ -2,3 +2,9 @@
 ### 第一屆 TBIA 生物開放資料數據松競賽, 2024
 ## Database Schema
 <img src="https://github.com/YiHsiu7893/Sparrow_Population_Analysis/blob/main/pictures/schema.png" width=80% height=60%>
+
+## Data Description
+- inputData
+- finalData
+- transCode
+- xml2csv
