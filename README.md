@@ -4,8 +4,11 @@
 <img src="https://github.com/YiHsiu7893/Sparrow_Population_Analysis/blob/main/pictures/schema.png" width=80% height=60%>
 
 ## Data Description
-- inputData: cleaned data
-- finalData: transferred data
-- transCode: codes performing data transformation
-- xml2csv: Convert file format from XML to CSV, including Weather_Station and Weather
-- analysis.py: code performing Spearman
+| Item        | Description                                        |
+|-------------|----------------------------------------------------|
+| inputData   | cleaned data                                      |
+| finalData   | transferred data                                  |
+| transCode   | codes performing data transformation              |
+| xml2csv     | convert file format from XML to CSV, including Weather_Station and Weather |
+| pictures    | database schema and analysis results              |
+| analysis.py | code performing Spearman correlation analysis     |
