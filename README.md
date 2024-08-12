@@ -4,7 +4,7 @@
 <img src="https://github.com/YiHsiu7893/Sparrow_Population_Analysis/blob/main/pictures/schema.png" width=80% height=60%>
 
 ## Data Description
-- inputData
-- finalData
-- transCode
-- xml2csv
+- inputData: cleaned data
+- finalData: transferred data
+- transCode: code performing data transformation
+- xml2csv: Convert file format from XML to CSV, including
