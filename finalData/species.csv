@@ -1,0 +1,5 @@
+taxonID,scientificName,common_name_c,kingdom_c,phylum_c,class_c,order_c,family_c,genus_c
+t0098364,Passer montanus,麻雀,動物界,脊索動物門,鳥綱,雀形目,麻雀科,麻雀屬
+t0031653,Passer montanus saturatus,麻雀,動物界,脊索動物門,鳥綱,雀形目,麻雀科,麻雀屬
+t0057548,Acridotheres javanicus,白尾八哥,動物界,脊索動物門,鳥綱,雀形目,八哥科,八哥屬
+t0099780,Acridotheres tristis,家八哥,動物界,脊索動物門,鳥綱,雀形目,八哥科,八哥屬
