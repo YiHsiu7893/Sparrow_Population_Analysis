@@ -8,7 +8,7 @@
 |-------------|----------------------------------------------------|
 | inputData   | cleaned data                                      |
 | finalData   | transferred data                                  |
+| pictures    | database schema and analysis results              |
 | transCode   | codes performing data transformation              |
 | xml2csv     | convert file format from XML to CSV, including Weather_Station and Weather |
-| pictures    | database schema and analysis results              |
 | analysis.py | code performing Spearman correlation analysis     |
